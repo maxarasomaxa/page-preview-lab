@@ -1,0 +1,16 @@
+{
+  "name": "@maxarasomaxa/page-preview",
+  "version": "1.0.0",
+  "description": "Custom element for previewing an HTML page",
+  "type": "module",
+  "main": "page-preview.js",
+  "exports": "./page-preview.js",
+  "files": [
+    "page-preview.js",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT"
+}
